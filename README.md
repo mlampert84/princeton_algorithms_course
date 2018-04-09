@@ -1,1 +1,3 @@
-# Comleted Assignments for Princeton Algorithms course on Coursera
+# Princeton Algorithms Course on Coursera
+
+## Completed Programming Assignments
